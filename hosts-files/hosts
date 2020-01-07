@@ -16902,4 +16902,18 @@
 104.28.9.217	pao-pao.net
 # GreatFire End
 
+##############
+# Xshell Start
+127.0.0.1 transact.netsarang.com
+127.0.0.1 update.netsarang.com
+127.0.0.1 www.netsarang.com
+127.0.0.1 www.netsarang.co.kr
+127.0.0.1 sales.netsarang.com
+# Xshell End
+
+# PhpStorm Start
+127.0.0.1 account.jetbrains.com
+127.0.0.1 www.jetbrains.com
+# PhpStorm End
+
 # Modified Hosts End
