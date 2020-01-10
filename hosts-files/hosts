@@ -16912,8 +16912,8 @@
 # Xshell End
 
 # PhpStorm Start
-127.0.0.1 account.jetbrains.com
-127.0.0.1 www.jetbrains.com
+0.0.0.0 account.jetbrains.com
+0.0.0.0 www.jetbrains.com
 # PhpStorm End
 
 # centos 7 Start
