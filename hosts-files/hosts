@@ -16933,5 +16933,8 @@
 192.168.1.123 www.tp6.io
 # centos 7 End
 
+# navicat 7 Start
+127.0.0.1       activate.navicat.com
+# navicat 7 End
 
 # Modified Hosts End
