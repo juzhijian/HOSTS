@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2020, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2020-01-08
+# Last updated: 2020-01-11
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -33,6 +33,16 @@
 103.124.106.174	103-124-106-174.googlehosts.org
 103.124.106.174	proxy.googlehosts.org
 # GoogleHosts End
+
+# 9GAG Start
+104.16.103.144	9gag.com
+104.16.103.144	web-t.9gag.com
+104.16.103.144	www.9gag.com
+104.17.170.73	assets-9gag-fun.9cache.com
+104.17.170.73	img-9gag-fun.9cache.com
+104.17.170.73	js-webt-lol.9cache.com
+104.17.170.73	miscmedia-9gag-fun.9cache.com
+# 9GAG End
 
 # AbeBooks Start
 199.255.34.38	data.abebooks.com
@@ -3081,7 +3091,7 @@
 172.217.5.137	alt7-mtalk.google.com
 # Google Service:Google Play End
 
-# Google:gcm Start
+# Google:gcm/fcm Start
 108.177.97.188	mobile-gtalk.l.google.com
 108.177.97.188	mtalk.google.com
 108.177.97.188	mtalk4.google.com
@@ -3090,8 +3100,9 @@
 108.177.97.188	gcm-xmpp.googleapis.com
 108.177.97.188	gcm-preprod.l.google.com
 108.177.97.188	gcm-preprod.googleapis.com
+108.177.97.188	fcm.googleapis.com
 216.58.199.10	gcm-http.googleapis.com
-# Google:gcm End
+# Google:gcm/fcm End
 
 # Google:ghs Start
 216.239.38.21	ghs.google.com
@@ -3465,6 +3476,10 @@
 108.177.120.94	mt6.gstatic.com
 108.177.120.94	mt7.gstatic.com
 # Gstatic End
+
+# Hacker News Start
+209.216.230.240	news.ycombinator.com
+# Hacker News End
 
 # Hinet Start
 211.20.148.228	hichannel.hinet.net

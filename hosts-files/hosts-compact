@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2020, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2020-01-08
+# Last updated: 2020-01-11
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -18,6 +18,8 @@
 45.89.228.109	45-89-228-109.googlehosts.org tg-10.googlehosts.org
 185.22.152.42	185-22-152-42.googlehosts.org ss-3.googlehosts.org
 103.124.106.174	103-124-106-174.googlehosts.org proxy.googlehosts.org
+104.16.103.144	9gag.com web-t.9gag.com www.9gag.com
+104.17.170.73	assets-9gag-fun.9cache.com img-9gag-fun.9cache.com js-webt-lol.9cache.com miscmedia-9gag-fun.9cache.com
 199.255.34.38	data.abebooks.com
 52.87.120.250	www.abebooks.com
 99.84.58.39	pictures.abebooks.com
@@ -376,7 +378,7 @@
 172.217.5.136	android.clients.google.com
 108.177.121.201	play.googleapis.com
 172.217.5.137	alt7-mtalk.google.com
-108.177.97.188	mobile-gtalk.l.google.com mtalk.google.com mtalk4.google.com gcm.googleapis.com gcm.l.google.com gcm-xmpp.googleapis.com gcm-preprod.l.google.com gcm-preprod.googleapis.com
+108.177.97.188	mobile-gtalk.l.google.com mtalk.google.com mtalk4.google.com gcm.googleapis.com gcm.l.google.com gcm-xmpp.googleapis.com gcm-preprod.l.google.com gcm-preprod.googleapis.com fcm.googleapis.com
 216.58.199.10	gcm-http.googleapis.com
 172.217.4.179	tools.android.com b.android.com m.android.com
 172.217.27.4	googlemashups.com www.googlemashups.com
@@ -390,6 +392,7 @@
 216.58.221.108	proxy.googlezip.net compress.googlezip.net proxy-dev.googlezip.net
 108.177.127.132	lh3.ggpht.com lh4.ggpht.com lh5.ggpht.com lh6.ggpht.com
 216.58.221.65	yt3.ggpht.com
+209.216.230.240	news.ycombinator.com
 211.20.148.228	hichannel.hinet.net
 202.39.143.235	radio-hichannel.cdn.hinet.net
 34.230.120.16	id.heroku.com

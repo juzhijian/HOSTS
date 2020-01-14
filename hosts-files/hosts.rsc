@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2020, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2020-01-08
+# Last updated: 2020-01-11
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -35,6 +35,16 @@ add address=185.22.152.42 name=ss-3.googlehosts.org
 add address=103.124.106.174 name=103-124-106-174.googlehosts.org
 add address=103.124.106.174 name=proxy.googlehosts.org
 # GoogleHosts End
+
+# 9GAG Start
+add address=104.16.103.144 name=9gag.com
+add address=104.16.103.144 name=web-t.9gag.com
+add address=104.16.103.144 name=www.9gag.com
+add address=104.17.170.73 name=assets-9gag-fun.9cache.com
+add address=104.17.170.73 name=img-9gag-fun.9cache.com
+add address=104.17.170.73 name=js-webt-lol.9cache.com
+add address=104.17.170.73 name=miscmedia-9gag-fun.9cache.com
+# 9GAG End
 
 # AbeBooks Start
 add address=199.255.34.38 name=data.abebooks.com
@@ -3355,7 +3365,7 @@ add address=108.177.121.201 name=play.googleapis.com
 add address=172.217.5.137 name=alt7-mtalk.google.com
 # Google Service:Google Play End
 
-# Google:gcm Start
+# Google:gcm/fcm Start
 add address=108.177.97.188 name=mobile-gtalk.l.google.com
 add address=108.177.97.188 name=mtalk.google.com
 add address=108.177.97.188 name=mtalk4.google.com
@@ -3364,8 +3374,9 @@ add address=108.177.97.188 name=gcm.l.google.com
 add address=108.177.97.188 name=gcm-xmpp.googleapis.com
 add address=108.177.97.188 name=gcm-preprod.l.google.com
 add address=108.177.97.188 name=gcm-preprod.googleapis.com
+add address=108.177.97.188 name=fcm.googleapis.com
 add address=216.58.199.10 name=gcm-http.googleapis.com
-# Google:gcm End
+# Google:gcm/fcm End
 
 # Google:ghs Start
 add address=216.239.38.21 name=ghs.google.com
@@ -3739,6 +3750,10 @@ add address=108.177.120.94 name=mt5.gstatic.com
 add address=108.177.120.94 name=mt6.gstatic.com
 add address=108.177.120.94 name=mt7.gstatic.com
 # Gstatic End
+
+# Hacker News Start
+add address=209.216.230.240 name=news.ycombinator.com
+# Hacker News End
 
 # Hinet Start
 add address=211.20.148.228 name=hichannel.hinet.net
